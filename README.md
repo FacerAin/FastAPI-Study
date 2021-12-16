@@ -1,7 +1,7 @@
 # FastAPI-Study
 Fast API를 쉽고 빠르게 익혀봅시다.
 
-## Table of Contents
+## Contents
 |No|Title|Description|Code|Blog|
 |--|-----|-------------|------|------|
 |0|Fast API 시작하기|왜 FastAPI를 사용하여야 할까요?|[#](#)|[#](#)|
